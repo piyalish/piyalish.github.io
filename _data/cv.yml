@@ -10,27 +10,17 @@
   type: time_table
   contents:
     - title: PhD
-      institution: Indian Institute of Astrophysics, Bengaluru, India
+      institution: Pt. Ravishankar Shukla University, Chhattisgarh, India
       year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Indian Institute of Astrophysics (IIA), Bengaluru, India (2017-2021)
+        - Aryabhatta Research Institute of Observational Sciences (ARIES), Nainital, India (2014-2017)
     - title: Master of Science
       institution: Rajabazar Science College, University of Calcutta, West Bengal, India
       year: 2013
-      description:
-        - Description 1.
-        - Description 2.
     - title: Bachelor of Science
       institution: Lady Brabourne College, University of Calcutta, West Bengal, India
-      year: 2013
-      description:
-        - Description 1.
-        - Description 2.
+      year: 2011
         
 - title: Experience
   type: time_table
@@ -40,11 +30,7 @@
       year: 2022 - 2025
       description:
         - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+
     - title: Visiting Professor
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
