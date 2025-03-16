@@ -30,14 +30,32 @@
       year: 2022 - 2025
       description:
         - Description 1.
-
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Post-Doctoral Research Associate
+      institution: S. N. Bose National Centre for Basic Sciences (SNBNCBS), India
+      year: 2021-2022
       description:
         - Description 1.
-        - Description 2.
-
+    - title: Post-Doctoral Researcher 
+      institution: Indian Institute of Astrophysics (IIA), India
+      year: 2021
+      description:
+        - Description 1.
+    - title: Senior Research Fellow
+      institution: Indian Institute of Astrophysics (IIA), India
+      year: 2017-2021
+      description:
+        - Description 1.        
+    - title: Senior Research Fellow
+      institution: Aryabhatta Research Institute of observational sciencES (ARIES), India
+      year: 2016 - 2017
+      description:
+        - Description 1. 
+    - title: Junior Research Fellow
+      institution: Aryabhatta Research Institute of observational sciencES (ARIES), India
+      year: 2014 - 2016
+      description:
+        - Description 1. 
+        
 - title: Open Source Projects
   type: time_table
   contents:
