@@ -56,13 +56,19 @@
       description:
         - Description 1. 
         
-- title: Open Source Projects
+- title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
+    - title: Magnetic fields in Massive star-forming Regions (MagMaR)
+      year: 2022-present
+      description: 
+    - title: ALMA Perseus Polarization Survey (ALPPS)
+      year: 2024-present
+      description:
+    - title: Magnetic fields in high-mass pre-stellar cores
+      year: 2023-present
+      description:      
+      
 - title: Honors and Awards
   type: time_table
   contents:
