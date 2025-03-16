@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://naoj-global.mtk.nao.ac.jp/en/'>National Astronomical Observatory of Japan</a>. 
+subtitle: Project Researcher at <a href='https://naoj-global.mtk.nao.ac.jp/en/'>National Astronomical Observatory of Japan</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>s.piyali16@gmail.com</p>
+    <p>     s.piyali16@gmail.com</p>
     <p></p>
     <p></p>
 
