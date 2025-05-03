@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ALMA Perseus Polarization Survey (ALPPS)
-description: (PI - Chat Hull)
+description: PI - Chat Hull
 img: assets/img/3.jpg
 importance: 2
 category: work
