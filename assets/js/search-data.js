@@ -406,7 +406,7 @@ ninja.data = [{
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-magnetic-fields-in-massive-star-forming-regions-magmar",
-          title: 'Magnetic Fields in Massive star-forming Regions (MagMaR)',
+          title: 'Magnetic fields in Massive star-forming Regions (MagMaR)',
           description: "PI - Patricio Sanhueza",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
