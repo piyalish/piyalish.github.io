@@ -412,7 +412,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-alma-perseus-polarization-survey-alpps",
           title: 'ALMA Perseus Polarization Survey (ALPPS)',
-          description: "(PI - Chat Hull)",
+          description: "PI - Chat Hull",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
