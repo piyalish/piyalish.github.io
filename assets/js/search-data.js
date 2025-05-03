@@ -410,9 +410,9 @@ ninja.data = [{
           description: "PI - Patricio Sanhueza",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-alma-perseus-polarization-survey-alpps",
+          title: 'ALMA Perseus Polarization Survey (ALPPS)',
+          description: "(PI - Chat Hull)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
