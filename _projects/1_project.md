@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Magnetic Fields in Massive star-forming Regions (MagMaR)
+title: Magnetic fields in Massive star-forming Regions (MagMaR)
 description: PI - Patricio Sanhueza
 img: assets/img/12.jpg
 importance: 1
