@@ -5,7 +5,7 @@ description: PI - Patricio Sanhueza
 img: assets/img/magmar.png
 importance: 1
 category: work
-related_publications: true
+#related_publications: true
 ---
 
 Below are the publications from the MagMaR project:
